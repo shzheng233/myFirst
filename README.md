@@ -1,7 +1,7 @@
 # myFirst
 python爬虫练手实例
 
-利用**request**与**bs4**的特性打磨出来的爬小说实力
+利用**request**与**bs4**的特性打磨出来的爬小说的实例
 
 **request获取网页源代码**
 
